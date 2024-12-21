@@ -16,7 +16,7 @@ flutter pub get
 
 2. **Navigate to the Directory**:
    ```bash
-   cd myJokesApp
+   cd Flutter-Jokes-App
    ```
 
 3. **Fetch Dependencies**:
